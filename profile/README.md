@@ -6,6 +6,8 @@ Welcome to the GitHub organization of the Laboratory for Energy Systems Analysis
 
 LEA operates as an interdivisional laboratory within PSI's Nuclear Energy and Safety Research Division (NES) and the General Energy Research Division (ENE). Our team conducts comprehensive analyses of various energy technologies, focusing on their integration and impact within broader energy systems.
 
+![Alt text](https://www.psi.ch/sites/default/files/styles/primer_full_image_xxl/public/2024-06/lea_for_website.jpg.webp?itok=GLO9_MP6)
+
 ## Research Focus
 
 Our key research areas include:
